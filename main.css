@@ -5,6 +5,34 @@
   padding: 0;
   margin: 0;
 }
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(fonts/Montserrat-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(fonts/Montserrat-Light.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(fonts/Montserrat-Medium.ttf);
+}
 
 body {
   background: #262732d9;
@@ -34,6 +62,7 @@ a{
   font-family: "Montserrat", sans-serif;
   font-size: 59px;
   font-weight: 300;
+    animation-delay: 2s
   animation: text 1.5s;
   animation-fill-mode: both;
   color: #575858;
@@ -126,38 +155,11 @@ a{
   display: grid;
 }
 
-/*::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 0;
-}*/
+}
 /*fonts*/
-@font-face {
-  font-family: "Montserrat";
-  font-style: normal;
-  font-weight: 200;
-  font-display: swap;
-  src: url(fonts/Montserrat-ExtraLight.ttf);
-}
-@font-face {
-  font-family: "Montserrat";
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(fonts/Montserrat-Light.ttf);
-}
-@font-face {
-  font-family: "Montserrat";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(fonts/Montserrat-Regular.ttf);
-}
-@font-face {
-  font-family: "Montserrat";
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url(fonts/Montserrat-Medium.ttf);
-}
+
 /*header */
 * {
   font-family: "Montserrat";
