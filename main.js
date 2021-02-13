@@ -57,6 +57,14 @@
 		 	order++;
 		 	
 	  	}
-	  	return order;
+	 	return order;
 	}
 
+function popup(){
+	var popup = document.querySelectorAll(".popup");
+	popup[0].classList.add("height");
+}
+function closer(){
+	var rclose = document.querySelectorAll(".popup");
+	rclose[0].classList.remove("height");
+}
