@@ -13,8 +13,8 @@
 	 	 check = 0;
 	}
 	var order = 0;
-	var inputCheck = document.querySelectorAll(".input_text");
-	var textInputCheck = document.querySelectorAll("p.f-feedback__p-text");
+	var inputCheck = document.querySelectorAll(".input_text_popup");
+	var textInputCheck = document.querySelectorAll("p.f-feedback__p-text--popup");
 	var maskMail = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/; 
 	var maskText = /[^ ]/;
 
