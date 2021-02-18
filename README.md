@@ -1,8 +1,8 @@
-#My website portfolio
+# My website portfolio
 ****************************
-###[link](https://rrozhkoportfolio.herokuapp.com/)
+### [link](https://rrozhkoportfolio.herokuapp.com/)
 
-####I used such a tech stack
+#### I used such a tech stack
 1. HTML
 1. CSS/SCSS
 1. JS
