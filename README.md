@@ -1,6 +1,6 @@
 # My website portfolio
 ****************************
-### [link](https://rrozhkoportfolio.herokuapp.com/)
+### [Link to website](https://rrozhkoportfolio.herokuapp.com/)
 
 #### I used such a tech stack
 1. HTML
