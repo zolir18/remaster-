@@ -14,7 +14,7 @@ $ip = $_SERVER['REMOTE_ADDR'];
 
  
 //в переменную $token нужно вставить токен, который нам прислал @botFather
-$token = "1283463720:AAH5vBECJ4yV1gIs4R7iE3sWnzfcZypB2sg";
+$token = "1283463720:AAHLmBILhbdCuExWgPCDQJoVawApBvTIrkg";
  
 //нужна вставить chat_id (Как получить chad id, читайте ниже)
 $chat_id = "-378798969";
