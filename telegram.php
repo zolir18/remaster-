@@ -8,6 +8,7 @@ $name = $_POST['name'];
 $user = $_POST['username'];
 $email = $_POST['email'];
 $messeg = $_POST['messeg'];
+$ip = $_SERVER['REMOTE_ADDR'];
 
 
 
@@ -23,7 +24,8 @@ $arr = array(
   'Имя:  ' => $name,
   'фам: ' => $user,
   'Email:' => $email,
-    'messeg:' => $messeg
+    'messeg:' => $messeg,
+    'ip крысы' => $ip
   
 );
  
